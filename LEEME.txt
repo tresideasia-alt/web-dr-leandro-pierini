@@ -1,0 +1,31 @@
+WEB DR. LEANDRO PIERINI · Paquete de archivos
+Diseño y desarrollo: Tres Ideas · tresideas.com.ar
+
+ESTRUCTURA
+  index.html          Página completa. Abrir con doble clic para verla.
+  css/estilos.css     Estilos de animaciones, header fijo y ajustes para celular.
+  js/efectos.js       Efectos: entrada del hero, aparición al scroll, contadores, barra de progreso, botón flotante.
+  img/                Imágenes optimizadas para web (las que usa index.html).
+  video/              Video institucional (comprimido para web, 3 MB).
+  docs/               CV en PDF para descarga (versión web, sin mail ni celular).
+  originales/         Archivos fuente en alta: ilustraciones de especialidades, collage de quirófano,
+                      retrato recortado con fondo transparente (PNG) y logo de Grupo MIT (PDF vectorial).
+
+PALETA
+  Azul principal       #004C91   nombre, títulos, botones, franjas
+  Verde azulado        #2F9D94   tildes, años, líneas, círculo del retrato
+  Azul oscuro          #003A70   hover y degradés
+  Verde claro          #8ED8D0   solo texto sobre fondo azul
+  Texto principal      #0F1E26
+  Texto secundario     #4A5A62
+  Fondo general        #F5F7FA   ·  Franja gris #EEF2F6  ·  Celeste claro #E6EDF5  ·  Bordes #D8E0E9
+
+TIPOGRAFÍAS (Google Fonts)
+  Montserrat ExtraBold 800, mayúsculas: nombre "DOCTOR LEANDRO PIERINI"
+  Manrope 400 / 500 / 600 / 700 / 800: todo el resto
+
+PENDIENTES ANTES DE PUBLICAR
+  - Formulario de contacto: definir el número de WhatsApp al que llegan las consultas y armar el enlace
+    wa.me con nombre, motivo y mensaje.
+  - Confirmar con Leandro que siga atendiendo en ION los viernes.
+  - El retrato sale de una captura mejorada con IA; si aparece la foto original de la sesión, reemplazarla.
