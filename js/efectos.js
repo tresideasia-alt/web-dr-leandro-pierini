@@ -38,7 +38,7 @@
     '#mit h2','#mit video',
     '#investigacion h2','#investigacion article','#investigacion li',
     '[aria-label="Distinciones"] figure','[aria-label="Distinciones"] h2','[aria-label="Distinciones"] [style*="border-radius: 14px"]',
-    '#turnos h2','#turnos article','#contacto h2','#contacto form'
+    '#turnos h2','#turnos article'
   ];
   var els=[]; groups.forEach(function(sel){ document.querySelectorAll(sel).forEach(function(e){ if(els.indexOf(e)<0) els.push(e); }); });
   els.forEach(function(e){
